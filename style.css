@@ -2,3 +2,21 @@ html, body {
   height: 100%;
   width: 100%;
 }
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(179, 245, 250);
+}
+h1 {
+    text-align: center;
+    background-color: rgba(22, 2, 2, 0.425);
+    margin-left: 35%;
+    margin-right: 35%;
+    color: white;
+}
+.faixa ol li{
+    display: inline-block;
+    padding-right: 20px;
+    margin-left:80px ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
